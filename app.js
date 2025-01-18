@@ -16,13 +16,13 @@ function agregarAmigo() {
         return;
     }
 
-    // Agregar el nombre al array y actualizar la lista visual
+    // Agregar el nombre al array y actualizar la lista que se ve
     amigos.push(nombre);
     const listItem = document.createElement('li');
     listItem.textContent = nombre;
     listaAmigos.appendChild(listItem);
 
-    // Limpiar el campo de texto
+    // Vaciar campo texto para poder seguir agregando nombres
     inputAmigo.value = '';
 }
 
