@@ -3,6 +3,7 @@
 El propósito de este proyecto es ofrecer una solución práctica para organizar sorteos de amigo secreto. También sirve como un ejemplo práctico de cómo usar JavaScript para manipular el DOM y manejar eventos.
 
 
+
 ## Funcionalidades 
 1. Agregar nombres:
    - Los usuarios pueden escribir nombres en un campo de texto y agregarlos a una lista visible en la página.
