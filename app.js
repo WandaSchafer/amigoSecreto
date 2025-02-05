@@ -4,6 +4,7 @@ const inputAmigo = document.getElementById('amigo');
 const listaAmigos = document.getElementById('listaAmigos');
 const resultado = document.getElementById('resultado');
 
+
 // Array para almacenar los nombres
 const amigos = [];
 
